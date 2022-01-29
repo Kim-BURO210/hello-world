@@ -1,3 +1,5 @@
 # hello-world
-my first repository\
+my first repository  
 -- and this is my first commit
+
+And my second
